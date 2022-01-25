@@ -8,8 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://krn563.github.io/portfolio.github.io/](https://krn563.github.io/portfolio.github.io/)
 
 - 📫 How to reach me **karangorai563@gmail.com**
-
-- Sharing my daily progress of learning <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> in [https://github.com/krn563/365daysofcode](https://github.com/krn563/365daysofcode)
+- Sharing my daily progress of learning C++ in [https://github.com/krn563/365daysofcode](https://github.com/krn563/365daysofcode)
 
 
 <h3 align="left">Connect with me:</h3>
