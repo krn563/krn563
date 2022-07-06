@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C++,Python**
 
-- 👨‍💻 All of my projects are available at [click here](https://krn563.github.io/portfolio/)
+- 👨‍💻 All of my projects are available at [my portfolio](https://krn563.github.io/portfolio/)
 
 - 📫 How to reach me **karangorai563@gmail.com**
 - Sharing my daily progress of learning C++ in [https://github.com/krn563/365daysofcode](https://github.com/krn563/365daysofcode)
