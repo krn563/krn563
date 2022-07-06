@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Karan Gorai</h1>
-<h3 align="center">A passionate first year undergrad from India</h3>
+<h3 align="center">A passionate Sophomore in Computer Science and Engineering from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krn563&label=Profile%20views&color=0e75b6&style=flat" alt="krn563" /> </p>
 
 - 🌱 I’m currently learning **C++,Python**
 
-- 👨‍💻 All of my projects are available at [https://krn563.github.io/portfolio.github.io/](https://krn563.github.io/portfolio.github.io/)
+- 👨‍💻 All of my projects are available at [click here](https://krn563.github.io/portfolio/)
 
 - 📫 How to reach me **karangorai563@gmail.com**
 - Sharing my daily progress of learning C++ in [https://github.com/krn563/365daysofcode](https://github.com/krn563/365daysofcode)
