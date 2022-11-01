@@ -1,3 +1,4 @@
+[![@krn563's Holopin board](https://holopin.me/krn563)](https://holopin.io/@krn563)
 <h1 align="center">Hi 👋, I'm Karan Gorai</h1>
 <h3 align="center">A passionate Sophomore in Computer Science and Engineering from India</h3>
 
