@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karan Gorai</h1>
-<h3 align="center">A third-year Computer Science and Engineering student with a passion for coding and problem-solving. I enjoy working on projects that challenge my skills and help me grow as a developer.</h3>
+<h3 align="center">A fourth-year Computer Science and Engineering student with a passion for coding and problem-solving. I enjoy working on projects that challenge my skills and help me grow as a developer.</h3>
 
 - 🔭 I’m currently working on [Sight-Speak](https://github.com/krn563/ScanEaser)
 
